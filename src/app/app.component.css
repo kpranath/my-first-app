@@ -1,0 +1,13 @@
+h1 {
+    color: darkblue;
+}
+
+.warningComp{
+    color: red;
+    background-color: rose;
+    /* align-items: center; */
+}
+
+.successComp{
+    color: green;
+}
